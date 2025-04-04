@@ -1,4 +1,5 @@
 # Deploying a Streamlit App Using Docker 🐳📊
+[LIVE DEMO OF THE APP](https://appapppy-lbyccgtsrbgchnl5frekr4.streamlit.app/)
 
 In this guide, we will walk through the process of deploying a **Streamlit** application using **Docker**. Docker is a powerful platform that allows you to containerize applications, making them portable and independent of the underlying system. Streamlit, on the other hand, is an open-source framework that enables you to create and share beautiful, interactive web apps for machine learning and data science.
 
